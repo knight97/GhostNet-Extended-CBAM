@@ -1,4 +1,4 @@
-![2E682FCF-C65D-4C37-A5D8-5653FFCBC921_4_5005_c](https://github.com/user-attachments/assets/bac9f61d-2fac-4298-b195-6561237a7639)# GhostNet-Extended-CBAM
+# GhostNet-Extended-CBAM
 
 The following project extends the work of GhostNet using an Attention Module called Convolutional Block Attention Module (CBAM): 
 
@@ -9,9 +9,24 @@ GhostNet: More Features from Cheap Operations. CVPR 2020. [arXiv] [Most Influent
 By Kai Han, Yunhe Wang, Qi Tian, Jianyuan Guo, Chunjing Xu, Chang Xu.
 
 The original publication of CBAM can be found at: 
+@article{Park2018Bam,
+  title     = {BAM: Bottleneck Attention Module},
+  author    = {Park, Jongchan and Woo, Sanghyun and Lee, Joon-Young and Kweon, In So},
+  journal   = {arXiv preprint arXiv:1807.06514},
+  year      = {2018},
+  url       = {https://arxiv.org/abs/1807.06514}
+}
 
-
+* Approach:
 ![2E682FCF-C65D-4C37-A5D8-5653FFCBC921_4_5005_c](https://github.com/user-attachments/assets/90126763-0cdc-4eaa-9a0a-adeaefe25208)
+
+* Performance:
+  ![EECF097F-4732-4025-B360-78F2F29D2824_4_5005_c](https://github.com/user-attachments/assets/0fac156e-01ac-4607-8f71-e41a9f1d721f)
+
+*Trade Off Results:
+![36455148-86E0-41A8-A6EC-88740E231EE8](https://github.com/user-attachments/assets/73c84571-bbea-4efd-86ba-4da1c721ed4a)
+
+![D71361D4-D41D-4DD4-9BF9-75D22B051C24_1_105_c](https://github.com/user-attachments/assets/d118dee9-2504-4526-9190-301af72a9397)
 
 
 The following github repository contains the following folders: 
