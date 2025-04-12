@@ -8,14 +8,9 @@ The original publication of GhostNet can be found at:
 GhostNet: More Features from Cheap Operations. CVPR 2020. [arXiv] [Most Influential CVPR 2020 Papers]
 By Kai Han, Yunhe Wang, Qi Tian, Jianyuan Guo, Chunjing Xu, Chang Xu.
 
-The original publication of CBAM can be found at: 
-@article{Park2018Bam,
-  title     = {BAM: Bottleneck Attention Module},
-  author    = {Park, Jongchan and Woo, Sanghyun and Lee, Joon-Young and Kweon, In So},
-  journal   = {arXiv preprint arXiv:1807.06514},
-  year      = {2018},
-  url       = {https://arxiv.org/abs/1807.06514}
-}
+The original publication of CBAM can be found at:
+CBAM: Convolutional Block Attention Module: ECCV 2018. [Springer]
+By Jonghyun Woo and Donghyun Lee and Choonsik Park and Joon-Young Lee and In So Kweon. 
 
 * Approach:
 ![2E682FCF-C65D-4C37-A5D8-5653FFCBC921_4_5005_c](https://github.com/user-attachments/assets/90126763-0cdc-4eaa-9a0a-adeaefe25208)
