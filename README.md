@@ -1,4 +1,4 @@
-# GhostNet-Extended-CBAM
+![2E682FCF-C65D-4C37-A5D8-5653FFCBC921_4_5005_c](https://github.com/user-attachments/assets/bac9f61d-2fac-4298-b195-6561237a7639)# GhostNet-Extended-CBAM
 
 The following project extends the work of GhostNet using an Attention Module called Convolutional Block Attention Module (CBAM): 
 
@@ -7,6 +7,12 @@ The goal of the project is to implement CBAM as an attention module into the Gho
 The original publication of GhostNet can be found at: 
 GhostNet: More Features from Cheap Operations. CVPR 2020. [arXiv] [Most Influential CVPR 2020 Papers]
 By Kai Han, Yunhe Wang, Qi Tian, Jianyuan Guo, Chunjing Xu, Chang Xu.
+
+The original publication of CBAM can be found at: 
+
+
+![2E682FCF-C65D-4C37-A5D8-5653FFCBC921_4_5005_c](https://github.com/user-attachments/assets/90126763-0cdc-4eaa-9a0a-adeaefe25208)
+
 
 The following github repository contains the following folders: 
 
